@@ -11,7 +11,7 @@ https://github.com/overextended/ox_lib
 ox_target :
 https://github.com/overextended/ox_target
 
-priview : https://cdn.discordapp.com/attachments/951023761338032138/1122212944869068951/image.png
+preview : https://cdn.discordapp.com/attachments/951023761338032138/1122212944869068951/image.png
 
 Inspiration from :
 https://github.com/fsocietystudios/fs_jobclock
